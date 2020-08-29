@@ -1,0 +1,10 @@
+body {
+    font: 400 16px/1.4 'serif';
+}
+#editor {
+    border: 1px solid grey;
+    height: 20rem;
+    width: 60%;
+    margin: 0px auto 0;
+    padding:10px;
+}
